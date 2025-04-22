@@ -10902,15 +10902,15 @@
       }
     },
     {
-      "displayName": "QNB Finansbank",
+      "displayName": "QNB",
       "id": "qnbfinansbank-a30806",
       "locationSet": {"include": ["tr"]},
       "matchNames": ["finansbank", "qnb"],
       "tags": {
         "amenity": "bank",
-        "brand": "QNB Finansbank",
+        "brand": "QNB",
         "brand:wikidata": "Q1416237",
-        "name": "QNB Finansbank"
+        "name": "QNB"
       }
     },
     {
